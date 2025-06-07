@@ -1,8 +1,8 @@
-# E-Commerce Analysis
+# Exploratory Explanatory Data Analysis E-Commerce Public Dataset
 
 ## Setup Environment - Command Prompt
 ```
-cd e-commerce-analysis
+cd exploratory-explanatory-data-analysis-e-commerce-public-dataset
 pip install -r requirements.txt
 ```
 
