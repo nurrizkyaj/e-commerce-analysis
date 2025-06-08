@@ -1,1 +1,1 @@
-https://e-commerce-analysis-ankh9wqbvm6zg2bqwuuc7m.streamlit.app/
+https://exploratory-explanatory-data-analysis-e-commerce-public-dataset.streamlit.app/
